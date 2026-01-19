@@ -1,0 +1,18 @@
+{
+	"go-main": {
+  "prefix": "mainfunc",
+  "body": [
+    "package main",
+    "",
+    "import (",
+    "\t\"fmt\"",
+    ")",
+    "",
+    "func main() {",
+    "\tfmt.Println(\"Hello, Go!\")",
+    "}"
+  ],
+  "description": "Go main function"
+}
+
+}
